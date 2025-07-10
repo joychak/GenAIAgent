@@ -15,7 +15,8 @@ Besides Python,
     
 
 ## Environment Setup 
-Add a '.env' file and set up the following enviroment variables
+Add '.env' file to the root folder and set up the following environment variables
+
       1. OPENAI_API_KEY
       2. LANGSMITH_TRACING
       3. LANGSMITH_ENDPOINT
