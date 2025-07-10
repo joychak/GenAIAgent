@@ -3,6 +3,7 @@ To develop an agent using generative AI
 
 ## Software prerequisites
 Besides Python,
+
     1. python-dotenv
     2. langgraph
     3. langchain 
